@@ -6,7 +6,7 @@ This repository contains the code used for generating the stimuli in the experim
 
 Install Python dependencies:
 
-```python
+```bash
 pip install -r requirements.txt
 ```
 
