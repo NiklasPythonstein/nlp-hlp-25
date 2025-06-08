@@ -19,8 +19,8 @@ The training and generation with large transformer models will use substantial c
 
 ## Models
 
-The repository includes a fine-tuned gaze model based on GPT-2. To download it, you need to use [Git LSF](https://git-lfs.com/):
+The repository includes a fine-tuned gaze model based on GPT-2. To download it, you need [Git LFS](https://git-lfs.com/), and you may need to run the following command:
 
 ```bash
-git lsf pull
+git lfs pull
 ```
